@@ -27,4 +27,4 @@ def webScraper():
                 print("error", file=f)
 
 if __name__ == "__main__":
-    webScraper()
+    webScraper() 
